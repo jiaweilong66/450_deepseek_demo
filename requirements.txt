@@ -1,0 +1,17 @@
+opencv-python==4.10.0.84
+opencv-contrib-python== 4.10.0.84
+pymycobot==3.9.6
+paddleocr== 2.9.1
+paddlepaddle==2.6.2
+openai== 1.61.0
+SpeechRecognition
+pydub==0.25.1
+Pillow== 9.2.0
+gTTS==2.5.4
+pygame==2.6.1
+PyAudio==0.2.14
+numpy
+baidu-aip==4.16.13
+
+
+
