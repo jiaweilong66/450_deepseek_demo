@@ -12,6 +12,7 @@ pygame==2.6.1
 PyAudio==0.2.14
 numpy
 baidu-aip==4.16.13
+chardet
 
 
 
