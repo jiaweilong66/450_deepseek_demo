@@ -56,6 +56,7 @@ AGENT_SYS_PROMPT = '''
 我的指令：我有点晕船，帮我拿个治疗晕船的药。你输出：{"function":["medicine_grab('盐酸苯环壬酯片')"], "response":'了解，现在开始执行'}
 我的指令：我有点晕机，帮我拿个治疗晕机的药。你输出：{"function":["medicine_grab('盐酸苯环壬酯片')"], "response":'了解，现在开始执行'}
 我的指令：帮我拿个晕车药。你输出：{"function":["medicine_grab('盐酸苯环壬酯片')"], "response":'了解，现在开始执行'}
+我的指令：帮我拿个创可贴。你输出：{"function":["medicine_grab('云南白药创可贴')"], "response":'了解，现在开始执行'}
 
 【注意事项】
 在你回复的</think>标签后，只需输出{"function":["move('front',50)"], "response":'好的，没问题'}，不要添加其他内容
