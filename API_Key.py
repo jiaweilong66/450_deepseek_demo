@@ -1,0 +1,3 @@
+APP_ID = '119930269'
+API_KEY = 'kiDHdmpkKvU1djV7BHle0h2W'
+SECRET_KEY = '6sR3acPnfaVvlpRcRGA2XT37vOGqttyt'

@@ -1,0 +1,28 @@
+camera_matrix:
+  cols: 3
+  data:
+  - - 1156.0641561963907
+    - 0.0
+    - 677.6572329337762
+  - - 0.0
+    - 1134.0162416428166
+    - 356.7554276364987
+  - - 0.0
+    - 0.0
+    - 1.0
+  rows: 3
+distortion_coefficients:
+  cols: 5
+  data:
+  - 0.17635026102179266
+  - -0.5531939331810994
+  - -0.009167026009776813
+  - -0.010751320475862107
+  - 0.26090490546173195
+  rows: 1
+image_height: 720
+image_width: 1280
+pattern_cols: 8
+pattern_rows: 5
+reprojection_error_px: 2.4604013760040684
+square_size_mm: 25.0
