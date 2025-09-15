@@ -8,12 +8,12 @@
 |Hard disk|128G available space|
 |System|Windows 10 and above|
 |Network requirements|Able to access the Internet normally|
-|Robotic arm|320M5|
+|Robotic arm|450M5|
 |Python|Version 3.9 or above|
 
 # 2 Hardware installation
 
-Manually turn the J6 joint to the zero scale line
+Manually turn the J6 joint to the this scale line
 ![Image](./img/r1.png)
 
 Be sure to install the camera and force control gripper flange to the end of the robot arm according to the figure below. During installation, be careful not to move the J6 zero scale line, otherwise the robot arm will not be able to grasp normally
@@ -67,7 +67,7 @@ In the Baidu AI Open Platform console, create a new application and select the "
 ![Image](./img/bd6.png)
 
 # 5 Source code acquisition
-Download address: https://github.com/elephantrobotics/320_deepseek_demo
+Download address: https://github.com/elephantrobotics/450_deepseek_demo
 
 Download the compressed package and solve it before deploying the environment
 
@@ -144,4 +144,5 @@ The medicine boxes to be grasped must be placed neatly and vertically, without t
 <source src="https://www.bilibili.com/video/BV1coMczkEGd/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f" type="video/mp4"> 
 <!-- <source src="movie.ogg" type="video/ogg"> --> 
 .
+
 </video>
