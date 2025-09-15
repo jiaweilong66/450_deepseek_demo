@@ -146,17 +146,3 @@ pip install -r requirements.txt
 ```bash
 我有点流鼻涕和鼻塞，帮我取个治疗这个症状的药。
 ```
-
-## 案例视频
-
-<!-- 视频链接：https://www.bilibili.com/video/BV1coMczkEGd/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f -->
-
-
-<!-- 
-<video class="elementor-video" src="https://www.bilibili.com/video/BV1coMczkEGd/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f" autoplay="" loop="" controls="" controlslist="nodownload"></video> -->
-
-<video width="640" height="480" controls>
-  <source src="https://www.bilibili.com/video/BV1coMczkEGd/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f" type="video/mp4">
-  <!-- <source src="movie.ogg" type="video/ogg"> -->
-  。
-</video>
