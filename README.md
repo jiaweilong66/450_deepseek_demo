@@ -13,7 +13,7 @@
 
 # 2 硬件安装
 
-手动将J6关节转到零刻度线上
+手动将J6关节转到图示刻度线上
 ![图片](./img/r1.png)
 
 将相机和力控夹爪法兰务必要按照下图安装到机械臂的末端上,在安装时要注意J6零刻度线不要移动,否则会导致机械臂无法正常抓取
@@ -78,7 +78,7 @@ ollama run deepseek-r1:7b
 
 
 # 5 源码获取
-下载地址：https://github.com/elephantrobotics/320_deepseek_demo
+下载地址：https://github.com/elephantrobotics/450_deepseek_demo
 
 把压缩包下载后解决后即可进行环境部署
 
