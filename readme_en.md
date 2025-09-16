@@ -14,15 +14,19 @@
 # 2 Hardware installation
 
 Manually turn the J6 joint to the this scale line
+
 ![Image](./img/r1.png)
 
 Be sure to install the camera and force control gripper flange to the end of the robot arm according to the figure below. During installation, be careful not to move the J6 zero scale line, otherwise the robot arm will not be able to grasp normally
+
 ![Image](./img/r2.png)
 
 Install the force control gripper on the flange
+
 ![Image](./img/r3.png)
 
 Connect the M8 aviation plug cable to the end interface of the robot arm and the force control gripper interface respectively
+
 ![Image](./img/r4.png)
 
 Finally, connect the camera cable to the computer USB port
@@ -146,3 +150,4 @@ The medicine boxes to be grasped must be placed neatly and vertically, without t
 .
 
 </video>
+
